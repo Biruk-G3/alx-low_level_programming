@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main: the main function
- *
+ * main- the main function
+ *my hello. printf task
  * Return: 0 after printing your function
  */
 int main(void)
