@@ -14,14 +14,14 @@ int n;
 srand(time(0));
 n = rand() - RAND_MAX / 2;
 if(n>0){
-	printf("%d",n "is postive");
+	printf("%d is postive",n);
 	}
 else if( n == 0){
-	printf("%d",n "is equll zero");
+	printf("%d is equll zero",n);
 
 }
 else{
-	printf(n,"%d" "is negative");
+	printf("%d is negative",n);
 }
 
 return (0);
