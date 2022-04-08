@@ -1,5 +1,5 @@
 #include <stdlib.h>
-
+#include <stdio.h>
 #include <time.h>
 
 /* more headers goes there */
@@ -14,14 +14,14 @@ int n;
 srand(time(0));
 n = rand() - RAND_MAX / 2;
 if(n>0){
-	pritf("is postive");
+	printf("is postive");
 	}
 else if( n == 0){
 	printf("is equll zero");
 
 }
 else{
-	pritf("is negative");
+	printf("is negative");
 }
 
 return (0);
