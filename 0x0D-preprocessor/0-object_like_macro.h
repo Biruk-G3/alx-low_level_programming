@@ -4,7 +4,7 @@
 
 
 
-#define SIZE 1024
+#define SIZ 1024
 
 
 
