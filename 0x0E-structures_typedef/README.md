@@ -1,1 +1,2 @@
-# Structures & typedef in C
+#0x0E-structures_typedef
+its all about structures
